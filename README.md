@@ -13,7 +13,7 @@ My own plan is to make it work from see below
 
 - [x] iPadOS 13.0
 
-my plain is to make a working verson of BlueBoard for ios 13.0 to 13.X.X
+my plain is to make a working verson of BlueBoard for iPadOS 13.0 to 13.X.X
 
 why am i putting is on github:
 
@@ -36,12 +36,12 @@ things i want to add
 # Not Supported Devices Yet above iOS 13.0
 | Device        | Staus   | Device                     | Staus | Device       | Staus   | 
 |---------|----------|---------|----------|---------|----------|---------|----------|
-| iPad Pro 12.9-inch (1st Gen)    | Planned | iPad Air 2 | Planned |iPad Mini 4| - |- | - |
-| iPad Pro 9.7-inch (1st Gen)     | Planned | iPad Air 3  | Planned |iPad Mini 5 | - |- | - |
-| iPad Pro 12.9-inch (2nd Gen)    | Planned |iPad 2017 (5th Gen)-| - |- | - |
-| iPad Pro 12.9-inch (2nd Gen)    | Planned |iPad 2018 (6th Gen)-| Planned |- | - |
-| iPad Pro 12.9-inch (3rd Gen)    | Planned || Planned |- | - |
-| iPad Pro 12.9-inch (3rd Gen     | Planned |-| Planned |- | - |
+| iPad Pro 12.9-inch (1st Gen)    | Planned | iPad Air 2  | Planned |iPad Mini 4 | Planned |
+| iPad Pro 9.7-inch (1st Gen)     | Planned | iPad Air 3  | Planned |iPad Mini 5 | Planned |
+| iPad Pro 12.9-inch (2nd Gen)    | Planned |iPad 2017 (5th Gen) | Planned |- | - |
+| iPad Pro 12.9-inch (2nd Gen)    | Planned |iPad 2018 (6th Gen) | Planned |- | - |
+| iPad Pro 12.9-inch (3rd Gen)    | Planned | - | - | - | - |
+| iPad Pro 12.9-inch (3rd Gen     | Planned | - | - | - | - |
 
 
 Notes: 
