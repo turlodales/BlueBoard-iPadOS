@@ -35,7 +35,7 @@ things i want to add
 
 # Not Supported Devices Yet above iOS 13.0
 | Device        | Staus   | Device                     | Staus | Device       | Staus   | 
-|---------|----------|---------|----------|---------|----------|---------|----------|
+|---------|----------|---------|----------|---------|----------|
 | iPad Pro 12.9-inch (1st Gen)    | Planned | iPad Air 2  | Planned |iPad Mini 4 | Planned |
 | iPad Pro 9.7-inch (1st Gen)     | Planned | iPad Air 3  | Planned |iPad Mini 5 | Planned |
 | iPad Pro 12.9-inch (2nd Gen)    | Planned |iPad 2017 (5th Gen) | Planned |- | - |
